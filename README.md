@@ -2,9 +2,9 @@
 
 
 
-- 😵 Hoje trabalho como Analista de Suporte Jr//
-- 😄 Estudando HTML, CSS e JavaScript...;
-- 💬 Sonho em me tornar Dev Front;
+- 😵 Hoje trabalho como Analista de Suporte//
+- 😄 Estudando HTML, CSS, JavaScript e Vue.js...;
+- 💬 Dev FrontEnd;
 <div align="center">
   <a href="https://github.com/deciobarros97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deciobarros97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
