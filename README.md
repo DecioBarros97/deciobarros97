@@ -2,8 +2,8 @@
 
 
 
-- 😵 Hoje trabalho como Analista de Suporte//
-- 😄 Estudando HTML, CSS, JavaScript e Vue.js...;
+- 😵 Trabalho como Analista de Suporte//
+- 😄 Adquirindo novas habildiades. HTML, CSS, JavaScript e Vue.js...;
 - 💬 Dev FrontEnd;
 <div align="center">
   <a href="https://github.com/deciobarros97">
